@@ -10,7 +10,9 @@ The project includes theoretical study, simulation experiments, and an applicati
 Project Information
 
 • Course: RMSC4102 – Research Project in Risk Management Science (CUHK)
+
 • Type: Individual research project
+
 • Language: R
 • Focus: Robust risk assessment using F-divergence uncertainty sets
 
