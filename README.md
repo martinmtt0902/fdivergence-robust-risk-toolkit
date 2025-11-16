@@ -13,8 +13,8 @@ The aim of this repository is to demonstrate practical understanding of divergen
 ## Project Information
 
 - **Completion date:** May 2023  
-- **Course:** RMSC4102 – Risk Analytics and Actuarial Science  
-- **Languages:** R (base R, nloptr, numDeriv)
+- **Course:** RMSC4102 – Research Project
+- **Languages:** R
 
 ---
 
