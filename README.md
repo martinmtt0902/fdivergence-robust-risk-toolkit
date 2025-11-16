@@ -18,6 +18,7 @@ Project Information
 • Focus: Robust risk assessment using F-divergence uncertainty sets
 
 
+
 Project Overview
 
 Project objectives:
@@ -29,6 +30,7 @@ Project objectives:
 • Reproduce and extend experiments from the paper
 
 • Apply the approach to real data (COVID-19 HK), using a nonparametric bootstrap reference model
+
 
 Main concepts:
 
